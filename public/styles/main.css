@@ -1,0 +1,53 @@
+:root {
+    --title-color: #0c0e0c;
+    --primary-color: #0c0e0c;
+}
+
+* {
+    width: -webkit-fill-available;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    margin-top: auto;
+    background: #f1530a;    
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, sans-serif;
+    color: white;
+    
+    margin-left: 0;
+
+}
+ 
+
+
+
+/* Box Model
+
+Modelo de caixa
+Toda caixa tem
+largura, altura, espaçamento, preenchimentos
+bordas, cor, fundo, maneira que é vista pelo html (display),
+posicionamento, alinhamentos
+*/
+
+
+
+
+
+
+
