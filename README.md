@@ -15,13 +15,13 @@ digitando apenas o nome do estado e cidade.
 ## O que foi utilizado nesse projeto:
 
 ## Linguagens, framework e tecnologias..
-- **JavaScript**
-- **Css**
-- **HTML**
+- ✔ **JavaScript**
+- ✔ **Css**
+- ✔ **HTML**
 
 🚀
 
 
-- [Node.Js](https://nodejs.org)
-- [Express](https://)
-- [Nunjucks](https://)
+- ✔ [Node.Js](https://nodejs.org)
+- ✔ [Express](https://)
+- ✔ [Nunjucks](https://)
