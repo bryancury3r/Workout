@@ -6,11 +6,6 @@
   <img src="https://arnoldsouthamerica.com.br/wp-content/uploads/2020/02/street-workout.jpg">  
 </h1>
 
-# Indice
-- [Sobre](#-Sobre)
-- [O que foi utilizado nesse projeto](#-O-que-foi-utilizado-nesse-projeto)
-- [Como baixar o projeto](#-Como-baixar-o-projeto)
-
 
 ## 🔖Sobre 
 O projeto foi desenvolvido para que todos os praticantes do **Street Workout** consigam encontrar locais adequados de treinos através de uma simples busca no site
